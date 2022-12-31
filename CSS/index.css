@@ -1,0 +1,444 @@
+@font-face {
+    font-family: 'futura';
+    src: url(/Font/futura/futura\ light\ bt.ttf);
+}
+
+#ul{
+    list-style: none;
+      margin-left: 450px;
+      font-family: 'futura';
+     
+     
+}
+li{
+    margin: 10px;
+    color: black;
+    
+    
+}
+
+#header{
+    margin-left: 353px;
+    margin-top: 23px;
+    margin-bottom: 17px;
+    
+}
+
+.displayflex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.center{
+    flex-direction: column;
+}
+
+#we-are{
+    padding-left: 36%;
+    /* padding-right: 20%; */
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'futura';
+    letter-spacing: 7px;
+    line-height: 10px;
+    /* font-weight: bold; */
+}
+
+.hrsize{
+    width: 158px;
+    display: inline-block;
+    font-family: monospace;
+    height: 1px;
+    margin: 4px;
+    padding-top: 0px;
+    background-color: black;
+    color: black;
+}
+
+#our-work{
+    border: 2px solid rgb(255, 255, 255);
+    font-family: 'futura';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 7px;
+    line-height: 35px;
+    padding-top:33px ;
+    padding-bottom: 66px;
+}
+
+        #work{
+            font-size: 24px ;
+            font-weight: 10px;
+        }
+
+        #project{
+            font-size: 17px;
+            
+        }
+
+#cont{
+    background-color: gray;
+    height: 100%;
+    width: 100%;
+}
+
+.items{
+    height: 500px;
+    width: 627.5px;
+    border: solid 6px #191919;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size: 100% 100%;
+    
+    
+    
+    }
+
+    #div1{
+    background-image: url(/Img/Monky1.jpg);
+    background-position: center;
+    }
+    
+    #div2{
+    background-image: url(/Img/JnJBlk_1.jpg);
+    background-position: center;
+    }
+    
+    #div3{
+    background-image: url(/Img/BrewMnky1.jpg);
+    background-position: center;
+    }
+    
+    #div4{
+    background-image: url(/Img/Gins_1.jpg);
+    background-position: center;
+    }
+    
+    #div5{
+    background-image: url(/Img/Garrison_1.jpg);
+    background-position: center;
+    }
+    
+    #div6{
+    background-image: url(/Img/Wblue-1.jpg);
+    background-position: center;
+    background-size: 740px;
+    }
+    
+    #div7{
+    background-image: url(/Img/dennis_1.jpg);
+    background-position: center;
+    }
+    
+    #div8{
+    background-image: url(/Img/hiltnClub_1.jpg);
+    background-position: center;
+    }
+    
+    #div9{
+    background-image: url(/Img/brand09.png);
+    background-position: center;
+    }
+     
+    #div10{
+    background-image: url(/Img/roaylcasino_1.jpg);
+    background-position: center;
+    }
+
+    #div11{
+    background-image: url(/Img/Brents_1.jpg);
+    background-position: center;
+    }
+
+    #div12{
+    background-image: url(/Img/WhiteHills_1.jpg);
+    background-position: center;
+    }
+
+    #div13{
+    background-image: url(/Img/brand18.png);
+    background-position: center;
+    }
+
+    #div14{
+    background-image: url(/Img/brand20.png);
+    background-position: center;
+    }
+
+    #div15{
+    background-image: url(/Img/brand21.png);
+    background-position: center;
+    }
+
+    #div16{
+    background-image: url(/Img/brand26.png);
+    background-position: center;
+    background-size: 100% 100%;
+    }
+
+    #div17{
+    background-image: url(/Img/lifelong\ thu.jpg);
+    background-position: center;
+    }
+
+    #div18{
+    background-image: url(/Img/jov-hairthumb.jpg);
+    background-position: center;
+    }
+
+    #div19{
+        background-image: url(/Img/masalaJPG.jpg);
+        background-position: center;
+        }
+
+    #div20{
+    background-image: url(/Img/Noodle1-JPG.jpg);
+    background-position: center;
+    }
+
+    #div21{
+    background-image: url(/Img/twyst_thumb_jpg.jpg);
+    background-position: center;
+    }
+   
+    
+
+    /* ------------------------- HEADING & SUBHEADING CSS frome here ------------------------- */
+
+    
+    .heading{
+        font-size: 39px;
+        letter-spacing: 7px;
+        line-height: 44px;
+    }
+    
+    .subheading{
+        font-size: 20px;
+        margin-bottom: 52px;
+        color: #949494;
+    }
+
+    /* ------------------------- about page CSS frome here ------------------------- */
+    
+    
+#aboutheading{
+    letter-spacing: 4px;
+    color: black;
+    margin-top: 54px;
+}
+
+
+/* #about-our{
+    font-size: 20px;
+    margin-bottom: 52px;
+    color: #949494;
+} */
+
+#aboutflex{
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+    font-family: 'futura';
+    text-align: center;
+   
+}    
+
+#alinecenter{
+    color: black;
+    font-size: 20px;
+    margin-top: 52px;
+}
+
+.footer{
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    
+    font-family: 'futura';
+}
+
+.copy{
+    margin-top: 69px;
+    margin-left: 342px;
+    color: #2c3e50;
+}
+  
+
+
+
+
+
+    /* ------------------------- SERVICES page CSS frome here ------------------------- */
+   
+   
+/*    
+    #servicessubhead{
+        font-size: 20px;
+        margin-bottom: 52px;
+        color: #949494;
+    
+    } */
+
+
+.maindiv{
+    font-family: 'futura';
+    text-align: center;
+    margin-bottom: -138px;
+}
+
+.servicescont{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20%;
+    padding-right: 18%;
+    
+}
+
+.servicesitems{
+    border: 2px solid #ffffff00;
+    width: 387px;
+    height: 613px;
+    margin-top: 30px;
+    
+    
+}
+
+
+
+div p{
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: black;
+}
+
+div h3{
+    font-size: 26px;
+    letter-spacing: 4px;
+    font-weight: 700px;
+}
+
+.serviceicon{
+    width: 50%;
+}
+
+
+
+
+
+
+    /* ------------------------- CLIENTS page CSS frome here ------------------------- */
+
+#clientheading{
+    padding-top: 30px;
+    padding-bottom: 8px;
+}
+
+
+.clientmain{
+    font-family: 'futura';
+    text-align: center;
+}
+
+.clientcont{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20%;
+    padding-right: 17%;
+}
+.clientitem{
+    margin: 2px;
+    width: 293px;
+    
+}
+
+.clienticon{
+    width: 79%;
+}
+
+
+    /* ------------------------- PROCESS page CSS frome here ------------------------- */
+
+
+.processmain{
+    font-family: 'futura';
+    text-align: center;
+    padding-left: 18.2%;
+    padding-right: 18.2%;
+}
+
+/* #prosub{
+    font-size: 20px;
+    margin-bottom: 52px;
+    color: #949494; 
+} */
+
+.processitem{
+    margin: 26px;
+}
+
+.processicon{
+    width: 61%;
+}
+
+.processcont{
+    display: flex;
+}
+
+
+    /* ------------------------- CONTACT page CSS frome here ------------------------- */
+
+#contactmain{
+    font-family: 'futura';
+    padding-left: 18.2%;
+    padding-right: 18.2%;
+}
+
+#tophead{
+    text-align: center;
+}
+
+.contactspan{
+    font-family: 'open sans';
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.h5class{
+    line-height: 2px;
+    margin-bottom: 10px;
+}
+
+.contactcont{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+            #cdiv1{
+                height: 110px;
+                width: 669px;
+               
+            }
+
+            #cdiv2{
+                height: 110px;
+                width: 479px;
+                
+            }
+
+            #cdiv3{
+                height: 60px;
+                width: 479px;
+                
+            }
+
+
+.h4{
+    text-align: left;
+    font-size: 19px;
+    color: black;
+    margin-top: 39px;
+}
+
